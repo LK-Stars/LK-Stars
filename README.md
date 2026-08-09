@@ -1,4 +1,4 @@
-## Opa! Me chamo Lukas
+## Lukas S. Galvão
 
 - 🔭 Estudante em Análise e Desenvolvimento de Sistemas
 - 🌱 Frequentemente pesquiso linguagens de programação
